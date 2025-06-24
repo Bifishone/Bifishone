@@ -22,14 +22,14 @@ Happy Coding! 😊
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-##### Hi, I'm Bifish:
+#### Hi, I'm Bifish:
 
 - 🎓Recent computer science graduate from Mudanjiang Normal University
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :mailbox: You can reach me with the links below
 
-##### Languages I use
+#### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -39,7 +39,7 @@ Happy Coding! 😊
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+#### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -52,7 +52,7 @@ Happy Coding! 😊
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
 
-### My GitHub Stats
+## My GitHub Stats
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=bifish0&show_icons=true)
 
