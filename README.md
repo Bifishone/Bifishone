@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"><img src="https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif"/></div>
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
