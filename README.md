@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##### Hi, I'm Bifish:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
+- 🎓Recent computer science graduate from Mudanjiang Normal University - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
