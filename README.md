@@ -1,5 +1,5 @@
 # <h1 align="center"><b>Hello World! :earth_asia:</b> 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<div align="center"><img src="https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif"/></div>
+
 <!--
 **Bifish0/Bifish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
