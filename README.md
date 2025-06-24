@@ -18,6 +18,10 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
 Happy Coding! 😊
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ##### Hi, I'm Bifish:
 
 - 🎓Recent computer science graduate from Mudanjiang Normal University
