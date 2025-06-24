@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" width="50">
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-</div>
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
@@ -25,7 +34,6 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 <div align="center">
-
 
 ⭐ From [Bifish](https://github.com/Bifish0)
 <img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2">
