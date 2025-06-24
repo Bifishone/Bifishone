@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
 
+Happy Coding! 😊
 ##### Hi, I'm Bifish:
 
 - 🎓Recent computer science graduate from Mudanjiang Normal University
@@ -36,7 +39,6 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
@@ -45,11 +47,6 @@ Here are some ideas to get you started:
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊
 
 <div align="center">
 
