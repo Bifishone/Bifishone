@@ -51,10 +51,11 @@ Happy Coding! 😊
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-<img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2">
 
 ### My GitHub Stats
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=bifish0&show_icons=true)
+
+<img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2">
 
 ⭐ From [Bifish](https://github.com/Bifish0)
