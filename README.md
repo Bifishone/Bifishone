@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/IyjFcq1.png" width="200px">
+
 # <h1 align="center"><b>Hello World! :earth_asia:</b> 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
@@ -20,8 +22,6 @@ Please feel free to clone projects and raise issues if you think something could
 
 Happy Coding! 😊
 ---
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 #### Hi, I'm Bifish:
 
