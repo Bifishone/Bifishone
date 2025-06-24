@@ -56,6 +56,6 @@ Happy Coding! 😊
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=bifish0&show_icons=true)
 
-<img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2">
+<!-- <img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2"> --!>
 
 ⭐ From [Bifish](https://github.com/Bifish0)
