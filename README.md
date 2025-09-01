@@ -86,4 +86,8 @@ Happy Coding! 😊
 
 <!-- <img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2"> --!>
 
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
 ⭐ <strong>From <a href="https://github.com/Bifishone">Bifish</a></strong>
