@@ -14,7 +14,7 @@
 </p>
 
 <!--
-**Bifish0/Bifish0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bifishone/Bifishone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,6 +50,11 @@ Happy Coding! 😊
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
+<!-- 自定义添加 -->
+<pic align="center">
+</pic>
+
+
 #### Hi, I'm Bifish:
 
 - 🎓Recent computer science graduate from Mudanjiang Normal University
@@ -79,6 +84,7 @@ Happy Coding! 😊
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
+<img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/coding.gif" />
 
 ## My GitHub Stats
 
