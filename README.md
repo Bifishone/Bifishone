@@ -59,7 +59,8 @@ Happy Coding! 😊
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :mailbox: You can reach me with the links below
 
-Hello World !
+
+Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ---
 
 <!-- knock code pictures 敲代码的图片 -->
