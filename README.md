@@ -43,16 +43,16 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 ---
 
-<!-- knock code pictures 敲代码的图片 -->
+<div align="center">
+  <!-- knock code pictures 敲代码的图片 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
+</div>
 
-<!-- 自定义添加 -->
-<pic align="center">
-</pic>
+
 
 
 #### Hi, I'm Bifish:
@@ -84,11 +84,9 @@ Happy Coding! 😊
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
+
 <img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/coding.gif" />
 
-## My GitHub Stats
-
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=bifish0&show_icons=true)
 
 <!-- <img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2"> --!>
 
