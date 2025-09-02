@@ -1,6 +1,7 @@
 # <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-  
+
+
 <p align="center">
   <em>
     This is ME, HuangShenghui, a 3nd year undergraduate from <a href="http://www.mdjnu.cn/"> <b>Mudanjiang Normal University</b>,Shandong Province</a>. <br>
@@ -36,8 +37,11 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
+
+
 
 <div align="center">
   
@@ -53,7 +57,7 @@ Happy Coding! 😊
 </div>
 
 
-#### Hi, I'm Bifish:
+#### Hi, I'm Bifish:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁ } 70.08%
 
 - 🎓Recent computer science graduate from Mudanjiang Normal University
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
@@ -69,7 +73,9 @@ Happy Coding! 😊
 
 <!-- knock code pictures 敲代码的图片 -->
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" style="margin-right: 20px;" />   
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" style="margin-right: 20px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bifishone" />
 </div>
 
@@ -110,7 +116,7 @@ My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" />
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bifishone&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bifishone&theme=dracula" />
 </div>
 
 ⭐ <strong>From <a href="https://github.com/Bifishone">Bifish</a></strong>
