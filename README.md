@@ -39,10 +39,11 @@ Here are some ideas to get you started:
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-
+<div align="center">
+  
 Happy Coding! 😊
 ---
-
+</div>
 
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
@@ -60,7 +61,10 @@ Happy Coding! 😊
 - :mailbox: You can reach me with the links below
 
 
-Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+<div align="center">
+  
+  Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ---
 
 <!-- knock code pictures 敲代码的图片 -->
@@ -91,7 +95,7 @@ Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-
+</div>
 
 
 
@@ -100,5 +104,10 @@ Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+My Github Status
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" />
 
 ⭐ <strong>From <a href="https://github.com/Bifishone">Bifish</a></strong>
