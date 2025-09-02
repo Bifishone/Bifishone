@@ -46,13 +46,9 @@ Happy Coding! 😊
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/coding.gif" />
 </picture>
 </div>
-
-
 
 
 #### Hi, I'm Bifish:
@@ -61,6 +57,15 @@ Happy Coding! 😊
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :mailbox: You can reach me with the links below
+
+---
+
+<!-- knock code pictures 敲代码的图片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
 
 #### Languages I use
 
@@ -85,7 +90,6 @@ Happy Coding! 😊
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
 
-<img src="https://github.com/dongyuanwai/readme-become-better/blob/main/images/coding.gif" />
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://s1.vika.cn/space/2025/06/24/bf1aaefbf71b440689b5c58072e785f2"> --!>
