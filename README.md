@@ -105,7 +105,7 @@ Happy Coding! 😊
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
-My Github Status
+My Github Stats
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" />
