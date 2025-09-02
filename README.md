@@ -111,7 +111,7 @@ Happy Coding! 😊
 
 My Github Stats
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api?username=Bifishone&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bifishone&theme=dracula" />
