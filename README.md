@@ -111,7 +111,7 @@ Happy Coding! 😊
 
 <div align="center">
   
-My Github Stats <img src="https://api.moedog.org/count/@Bifishone.readme" width="200" />
+<img src="https://api.moedog.org/count/@Bifishone.readme" width="200" /> My Github Stats 
 ---
 </div>
 
