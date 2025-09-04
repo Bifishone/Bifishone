@@ -111,7 +111,7 @@ Happy Coding! 😊
 
 <div align="center">
   
-<img src="https://api.moedog.org/count/@Bifishone.readme" width="200" /> My Github Stats 
+<img src="https://api.moedog.org/count/@Bifishone.readme" width="200" /> My Github Stats <img src="https://camo.githubusercontent.com/3d019a80e3b619d8c56cff6d0b49c1c2124d2cb39f7281ebbbc8a273c4731330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
 ---
 </div>
 
