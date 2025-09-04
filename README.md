@@ -111,7 +111,22 @@ Happy Coding! 😊
 
 My Github Stats
 ---
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="left" /><img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" align="right" />
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="left" />
+
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=Bifishone&locale=cn&theme=github_dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bifishone&theme=github_dark" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+<!-- 注释的一些图片 -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Bifishone&show_icons=true" align="right" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Bifishone&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
 
 <div align="center">
