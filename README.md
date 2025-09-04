@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    This is ME, HuangShenghui, a 3nd year undergraduate from <a href="http://www.mdjnu.cn/"> <b>Mudanjiang Normal University</b>,Shandong Province</a>. <br>
+    This is ME, HuangShenghui, a 4nd year undergraduate from Shandong Province. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Network Security Technology Enthusiasts</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
